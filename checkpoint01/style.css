@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:ital@1&display=swap');
+body{
+    margin: 0 auto;
+    width: 780px;
+    height: 1280px;
+    background-image: url('https://especiais.gazetadopovo.com.br/wp-content/uploads/sites/22/2020/06/09215947/gazeta-do-povo-blog-concurseiros-dom-feliciano-rs-drone-donfa-prefeitura-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    padding: 20px 20px;
+    text-align: center;
+    
+}
+header h1{
+    color: rgb(14, 14, 71);
+    font-family: 'Roboto', sans-serif;
+}
+main{
+    padding: 10px 20px;
+}
+main p{
+    color: white;
+}
+main p strong{
+    color: yellow;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box_video{
+    width: 600px;
+    height: 400px;
+    text-align: center;
+
+}
+h2{
+    margin-top: 250px;
+    color: blue;
+    font-family: 'Roboto', sans-serif; 
+}
+li{
+    color: white; 
+}
+.contatos{
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.instagran img{
+    width: 75px;
+}
+.youtube img{
+    width: 75px;
+}
